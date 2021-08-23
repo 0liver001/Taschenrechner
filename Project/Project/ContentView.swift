@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  Shared
+//  Project
 //
 //  Created by Oliver Kalemba / BBS2H20A on 23.08.21.
 //
